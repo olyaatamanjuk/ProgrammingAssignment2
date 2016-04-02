@@ -1,6 +1,4 @@
 ## This is a pair of function that cache the inverse of matrix
-
-
 ## This function is used to set the matrix and or set the inverse matrix
 ## the user also can get the matrix that has been set
 ## and can get the cached inversed matrix
